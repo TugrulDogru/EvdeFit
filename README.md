@@ -1,41 +1,30 @@
-# 🏠 EvdeFit
 
-**EvdeFit**, ekipmansız ev egzersizleri yapmak isteyenler için hazırlanmış, kullanıcı dostu bir öneri platformudur. Hedefine uygun egzersizleri saniyeler içinde bul, planla ve forma gir!
+# EvdeFit 🏠💪
 
-![EvdeFit Logo](logo1.png)
+**EvdeFit**, ekipmansız evde egzersiz yapmak isteyen herkes için özel olarak geliştirilmiş bir yapay zeka destekli antrenman öneri sistemidir.
 
 ## 🚀 Özellikler
 
-- ✅ Kas grubuna, hedefe veya vücut bölgesine göre egzersiz önerileri  
-- ✅ Akıllı arama sistemi (örn: "göğüs egzersizi", "yağ yakmak")  
-- ✅ Hazır planlar: *Yağ Yakım Hileleri*, *Patlayıcı Güç*, *Mükemmel Üst Vücut*  
-- ✅ Egzersiz açıklamaları: Hedef kas grubu, tekrar-set sayısı, dinlenme süresi  
-- ✅ Mobil ve masaüstü uyumlu sade arayüz  
+- Kas gruplarına göre antrenman önerileri (örn. omuz, göğüs, sırt, bacak)
+- Hedefe göre özel antrenman listeleri (örn. yağ yakımı, patlayıcı güç, esneklik)
+- Her egzersiz için: süre, set-tekrar bilgisi ve puanlama
+- Hiçbir ekipman gerekmez – tamamen ev ortamına uygun
+- GPT destekli akıllı arama: "kondisyon", "üst vücut", "göğüs çalış", "patlayıcı egzersizler" gibi ifadeleri anlar
+- Temel beslenme rehberi (kalori açığı, protein ihtiyacı)
 
-## 📂 Site İçeriği
+## 📁 İçerikler
 
-- `index.html` → Ana sayfa  
-- `style.css` → Tasarım dosyası  
-- `egzersizler.js` → Öneri sistemi (ilerleyen sürümde)  
-- `logo1.png` → Proje logosu  
+- `main.ipynb`: Google Colab uyumlu demo
+- `egzersiz_verisi.json`: Egzersizler, hedefler, puanlamalar
+- `hazir_programlar.md`: Hazır antrenman listeleri
+- `logo.png`: Projenin logosu
 
-## 📸 Ekran Görüntüsü
+## 🌐 Demo ve Kullanım
 
-![Ekran görüntüsü](screenshot.png)
-
-## 🌐 Yayında
-
-📍 [EvdeFit Online](https://tugruldogru.github.io/EvdeFit02/)  
-🧠 Geliştirici: [Tugrul Dogru](https://github.com/TugrulDogru)
-
-## 🔧 Planlanan Geliştirmeler
-
-- Kullanıcıdan doğrudan hedef alma (soru-cevap stili)
-- Kişiselleştirilmiş haftalık egzersiz planı oluşturma
-- Basit beslenme öneri modülü (kalori/protein bazlı)
+Google Colab üzerinden demo yakında eklenecektir.
+Bu repo, LinkedIn ve GitHub portföyünüzde paylaşabileceğiniz şekilde düzenlenmiştir.
 
 ---
 
-> 💬 *Evde spor yapmak isteyenler için bilgiyle tasarlanmış bir kılavuz. Sağlam vücut, sağlam verilerle başlar.*
-
-
+**Proje Sahibi:** Tugrul Doğru  
+GitHub: [TugrulDogru](https://github.com/TugrulDogru)

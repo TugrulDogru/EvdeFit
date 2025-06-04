@@ -1,0 +1,47 @@
+[
+    {
+        "ad": "\u015e\u0131nav",
+        "kas_grubu": "G\u00f6\u011f\u00fcs, Triceps, Core",
+        "hedef": "Kas kazan\u0131m\u0131",
+        "set": 3,
+        "tekrar": 15,
+        "dinlenme": "30 sn",
+        "puan": 7.5,
+        "aciklama": "Standart \u015f\u0131nav, g\u00f6\u011f\u00fcs ve kol kaslar\u0131n\u0131 \u00e7al\u0131\u015ft\u0131r\u0131r.",
+        "etiketler": [
+            "g\u00f6\u011f\u00fcs",
+            "\u00fcst v\u00fccut",
+            "\u015f\u0131nav"
+        ]
+    },
+    {
+        "ad": "Diamond \u015e\u0131nav",
+        "kas_grubu": "Triceps, G\u00f6\u011f\u00fcs, Core",
+        "hedef": "Kol kal\u0131nl\u0131\u011f\u0131",
+        "set": 3,
+        "tekrar": 12,
+        "dinlenme": "40 sn",
+        "puan": 8.2,
+        "aciklama": "Ellerin \u00fc\u00e7gen pozisyonda olmas\u0131 tricepsi daha \u00e7ok \u00e7al\u0131\u015ft\u0131r\u0131r.",
+        "etiketler": [
+            "triceps",
+            "g\u00f6\u011f\u00fcs",
+            "\u00fcst v\u00fccut"
+        ]
+    },
+    {
+        "ad": "Jumping Jack",
+        "kas_grubu": "T\u00fcm V\u00fccut",
+        "hedef": "Kardiyo, ya\u011f yak\u0131m\u0131",
+        "set": 3,
+        "tekrar": 30,
+        "dinlenme": "20 sn",
+        "puan": 7.8,
+        "aciklama": "V\u00fccudu \u0131s\u0131tan, kondisyon art\u0131r\u0131c\u0131 bir egzersiz.",
+        "etiketler": [
+            "ya\u011f yak\u0131m\u0131",
+            "kardiyo",
+            "\u0131s\u0131nma"
+        ]
+    }
+]

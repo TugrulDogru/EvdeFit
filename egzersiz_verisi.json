@@ -1,0 +1,27 @@
+
+[
+  {
+    "isim": "Şınav",
+    "kas_grubu": ["göğüs", "triceps", "ön omuz"],
+    "sure": "45 sn",
+    "set": 3,
+    "tekrar": 15,
+    "puan": 7.5
+  },
+  {
+    "isim": "Diamond Push-Up",
+    "kas_grubu": ["göğüs", "triceps"],
+    "sure": "40 sn",
+    "set": 3,
+    "tekrar": 12,
+    "puan": 8.2
+  },
+  {
+    "isim": "Jumping Jack",
+    "kas_grubu": ["tüm vücut", "kondisyon"],
+    "sure": "40 sn",
+    "set": 3,
+    "tekrar": 1,
+    "puan": 7.8
+  }
+]
